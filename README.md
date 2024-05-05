@@ -3,6 +3,8 @@
 ## Description
 PWA NoteTaker is a Progressive Web Application (PWA) that allows users to create and manage notes or code snippets, with or without an internet connection. The application utilizes IndexedDB for local storage, enabling offline access and reliable data retrieval. It also features webpack bundling, service worker caching with Workbox, and next-gen JavaScript usage with Babel.
 
+This is deployed on render at https://pwa-notetaker.onrender.com/.  Please wait up to a minute for the app to load. 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
